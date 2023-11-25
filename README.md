@@ -2,7 +2,7 @@
 
 Group project by Grace Wang, Nobline Yoo, Richard Zhu
 
-[Paper] (https://drive.google.com/file/d/1Dtvst-zzubB1xsiQZEEkJpXdB7LsB4g5/view?usp=sharing)
+[Paper](https://drive.google.com/file/d/1Dtvst-zzubB1xsiQZEEkJpXdB7LsB4g5/view?usp=sharing)
 
 Based significantly on code from [Li and Liang 2021](https://aclanthology.org/2021.acl-long.353.pdf). The authors also provide a [Codalab](https://worksheets.codalab.org/worksheets/0x16e0c8e7ab1f4b22aaccddc8b586541f)
 
